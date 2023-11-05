@@ -17,7 +17,7 @@ body {
 {
     height: 100vh;
     width: 100%;
-    background: url('/images/gulmarg.jpg') no-repeat center center/cover;
+    background: url('images/gulmarg.jpg') no-repeat center center/cover;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.4);
     display: flex;
     align-items: center;
